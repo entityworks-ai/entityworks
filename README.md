@@ -6,6 +6,6 @@ It defines, publishes, and stewards canonical terminology, classifications, and 
 
 Its role is to establish shared language, boundaries, and interpretive clarity for conditions that exist independently of any single AI system, vendor, or organisational intent. This repository serves as a public reference surface for selected EntityWorks materials and artefacts. 
 
-Standards publications, and authoritative references are maintained at:
+Standards, publications, and authoritative references are maintained at:
 
 https://entityworks.ai
